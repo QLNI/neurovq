@@ -1,0 +1,16 @@
+# QLNI Non-Commercial Research Licence
+
+Copyright (c) 2026 Sai Kiran Bathula, QLNI (New South Wales, Australia).
+
+Permission is granted to use, copy, modify and redistribute the code, model weights, tokenizer weights and documents in
+this repository ("the Materials") for non-commercial research and educational purposes only, provided that this notice
+and the attribution to the author are kept with every copy or derivative.
+
+Commercial use of any kind requires a separate written licence from the author (saikiranbathula@qlni.io). This
+includes use in a product or service, use to train or improve a model that is offered commercially, and redistribution
+for a fee.
+
+The datasets used for training and evaluation keep their own licences and terms of access.
+
+The Materials are provided "as is", without warranty of any kind. The author is not liable for any claim or damage
+arising from their use.
